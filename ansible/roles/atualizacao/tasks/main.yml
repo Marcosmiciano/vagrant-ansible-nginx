@@ -1,0 +1,4 @@
+---
+- name: Update So
+  apt:
+    name: "*"     //Atualizando so

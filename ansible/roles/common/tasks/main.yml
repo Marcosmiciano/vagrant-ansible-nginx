@@ -1,0 +1,13 @@
+---
+- name: Instalando pacotes 
+  yum:
+    name: 
+      - vim
+      - curl
+      - telnet
+      - unzip
+      - wget
+      - net-tools
+      - htop
+      - nmap
+      
