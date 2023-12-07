@@ -1,0 +1,4 @@
+---
+- name: install Zabbix agent
+  apt:
+    name: zabbix-agent
